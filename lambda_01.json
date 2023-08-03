@@ -1,0 +1,16 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:us-east-1:071964951237:repository/s2b-lambda_01",
+        "registryId": "071964951237",
+        "repositoryName": "s2b-lambda_01",
+        "repositoryUri": "071964951237.dkr.ecr.us-east-1.amazonaws.com/s2b-lambda_01",
+        "createdAt": "2023-08-03T11:18:58+03:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": true
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}
